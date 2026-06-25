@@ -30,7 +30,7 @@ Skills Demonstrated:
 ---
 
 ### Project 2 – Enterprise Risk Assessment & Risk Register
-Status: In Progress
+Status: Completed
 
 Planned Deliverables:
 
@@ -43,7 +43,7 @@ Planned Deliverables:
 ---
 
 ### Project 3 – Third-Party Risk Assessment Program
-Status: Planned
+Status: In Progress
 
 Planned Deliverables:
 
