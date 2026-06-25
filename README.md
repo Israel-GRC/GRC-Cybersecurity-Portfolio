@@ -98,7 +98,11 @@ Planned Deliverables:
 ## Author
 
 Vearnell Israel
+
 Bachelor of Applied Science – Cyber Operations (Defense & Forensics)
+
 University of Arizona - College of Information Science (Magna Cum Laude)
+
 CompTIA Security+
+
 GRC and AI Governance Professional
