@@ -45,8 +45,12 @@ This project was developed using concepts aligned with:
 
 ## Author
 
-Vearnell Israel  
-Bachelor of Applied Science – Cyber Operations  
-University of Arizona  
-CompTIA Security+  
+Vearnell Israel
+
+Bachelor of Applied Science – Cyber Operations (Defense & Forensics)
+
+University of Arizona - College of Information Science (Magna Cum Laude)
+
+CompTIA Security+ 
+
 GRC and AI Governance Professional
